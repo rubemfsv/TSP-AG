@@ -51,10 +51,9 @@ Agora podemos criar nosso método principal, adicionar nossas cidades e desenvol
 
 ## Saída:
 
-Initial distance: 1996
-Finished
-Final distance: 940
-Solution:
+Distancia inicial: 1996
+Distancia final: 940
+Solução:
 |60, 200|20, 160|40, 120|60, 80|20, 40|20, 20|60, 20|100, 40|160, 20|200, 40|180, 60|120, 80|140, 140|180, 100|200, 160|180, 200|140, 180|100, 120|100, 160|80, 180|
 
 
