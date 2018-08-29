@@ -259,7 +259,7 @@ if __name__ == '__main__':
     # Inicializa a população
     pop = Populacao(admviagem, 50, True);
     print
-    "Distancia inicial: " + str(pop.getFittest().getDistancia())
+    "Distãncia inicial: " + str(pop.getFittest().getDistancia())
 
     ag = AG(admviagem)
     pop = ag.agPopulacao(pop)
